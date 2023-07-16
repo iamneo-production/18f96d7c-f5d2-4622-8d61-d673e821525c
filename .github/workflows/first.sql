@@ -12,7 +12,7 @@ select count(*) as num_of_passengers
 from airline
 where CLASS='Eco';
 
-select count(*) as count
+select count(*) as num_of_children
 from airline
 where AGE<13; 
 
