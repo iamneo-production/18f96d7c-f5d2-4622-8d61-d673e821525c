@@ -1,5 +1,3 @@
-select *from airline;
-
 select count(*) as female_passengers
 from airline
 where GENDER='Female';
