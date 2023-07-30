@@ -21,4 +21,4 @@ WHERE AGE < 13;
 --QUERY 5
 SELECT COUNT(*) AS Total_BusinessClass_Passengers_Above_Age_16
 FROM AIRLINE
-WHERE AGE>16 AND CLASS ='Business';
+WHERE AGE>16 AND CLASS ='Business'; 
