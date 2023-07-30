@@ -21,5 +21,5 @@ where AGE<13;
 --SQL query to find the count of passengers who are above 16 and booked in business class.
 select count(*) as count_of_passengers
 from airline
-where AGE>16 and CLASS='Business';
+where AGE>16 and CLASS='Business'; 
 
