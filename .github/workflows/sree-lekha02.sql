@@ -1,5 +1,3 @@
-select * from airline;
-
 --SQL queries to find the number of female passengers who booked the tickets.
 select count(*) as female_passengers
 from airline
