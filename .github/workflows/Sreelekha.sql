@@ -25,3 +25,4 @@ select count(*) as count_of_passengers
 from airline
 where AGE>16 and CLASS='Business';
 
+
