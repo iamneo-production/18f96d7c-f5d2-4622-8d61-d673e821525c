@@ -17,4 +17,4 @@ where age<13;
 --Query5
 select count(*) as BUS_ADULTS
 from Airline
-where age>16 and class='Business';
+where age>16 and class='Business'; 
